@@ -1,0 +1,5 @@
+{
+  "name": "Shoot.Edit.Release",
+  "description": "An AI-powered videographer estimator and invoice app. Formulate budget estimates based on local average rates, including editing, taxes, and markup.",
+  "requestFramePermissions": []
+}
